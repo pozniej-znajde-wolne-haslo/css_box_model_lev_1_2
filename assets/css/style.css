@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+main {
+    padding-top: 30px;
+}
+
+p {
+    width: 300px;
+    padding: 25px;
+    border: 5px solid black;
+    background-color: rgb(107, 171, 107);
+    margin: auto;
+}
+
+/* Schreibe eine HTML-Struktur, die dem Bild von der nächsten Folie entspricht
+Gib beiden Boxen border, padding und margin
+
+ */
